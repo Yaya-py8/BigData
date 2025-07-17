@@ -10,3 +10,4 @@ tracks_df = pd.read_csv('Data/tracks.csv')
 
 print(artists_df.head())
 print(tracks_df.head())
+
